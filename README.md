@@ -32,7 +32,6 @@ Kode ini disusun dalam format Jupyter Notebook (`.ipynb`) dan mencakup bagian-ba
 
 ```bash
 git clone https://github.com/cardinaldeacre/Image-Denoising-dengan-Autoencoder.git
-cd nama-repo-denoising
 ```
 
 
@@ -87,11 +86,3 @@ nama-repo-denoising/
 ├── README.md                 # Dokumentasi proyek
 └── requirements.txt          # Daftar dependensi (opsional)
 ```
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi tim pengembang melalui Issues di repositori ini.
