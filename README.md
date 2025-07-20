@@ -64,10 +64,10 @@ Setelah pelatihan, model akan menghasilkan gambar-gambar yang telah di-denoise. 
 | **Nama Kontributor** | **Jobdesk** |
 |----------------------|-------------|
 | Iqbal Maulana | Merancang Arsitektur Model |
-| Ahmad Nugrahadi | Pra-pemrosesan Data dan Penambahan Noise |
+| Farid Fajar | Pra-pemrosesan Data dan Penambahan Noise |
 | Abdullah Sukma Jati | Kompilasi dan Pelatihan Model |
 | Gusti Ahmad | Visualisasi Hasil dan Analisis Loss |
-| Farid Fajar | Dokumentasi Kode dan README |
+| Ahmad Nugrahadi | Dokumentasi Kode dan README |
 | Atha Fatur | Pengujian  Model |
 
 ## Teknologi yang Digunakan
